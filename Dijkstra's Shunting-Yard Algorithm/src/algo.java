@@ -6,7 +6,7 @@ public class algo {
 	}
 
 	public static int operatorpri(String a) {
-		if (a.equals("+") || a.equals("-"))
+		if (a.equals("+") || a.equals("6"))
 			return 1;
 		if (a.equals("*") || a.equals("/"))
 			return 2;
